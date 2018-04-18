@@ -1,3 +1,7 @@
+//Sasha Stramel
+//cosc 2030
+//Lab 8
+
 // A binary tree class using an embedded class for the nodes.
 // All code is implemented here in the .h file.
 

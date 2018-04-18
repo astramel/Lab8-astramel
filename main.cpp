@@ -1,3 +1,8 @@
+//Sasha Stramel
+//cosc 2030
+//Lab 8
+
+
 #include "BinaryTree.hpp"
 
 #include <iostream>
@@ -8,7 +13,7 @@ using namespace std;
 
 void getRequest(string & request)
 {
-    cout << "Enter request: ";
+    cout << "Enter: ";
     cin >> request;
 }
 
